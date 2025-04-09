@@ -66,5 +66,5 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Live Demo**: [https://your-portfolio-url.com](https://your-portfolio-url.com)  
+**Live Demo**: [https://sagittarius3243.github.io/keithotieno/](https://sagittarius3243.github.io/keithotieno/)  
 **Contact**: keithisack@gmail.com | +254 725 366062
